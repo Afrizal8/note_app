@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "760878554565",
+    "project_id": "notifflutter-dfd62",
+    "storage_bucket": "notifflutter-dfd62.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760878554565:android:72a00c0af87dce834bbfac",
+        "android_client_info": {
+          "package_name": "com.example.note_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPE9-lw7XVY7WsJZBzicDa_SYa3QlI1GI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
